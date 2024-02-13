@@ -3,7 +3,6 @@
 | 🔭 I am The President of the [Husky_Developers](https://husky-developers.github.io/) at UConn <br><br> 💻 I have a strong understanding of OOP, Front-End Frameworks, Backend Technologies, General Software Engineering <br><br> 🌱 I am currently working on projects and start ups in my software engineering club <br><br> 🔬 I am currently in my 3rd year studying Physiology and Neurobiology with minors in Computer Science, Molecular and Cellular Biology, and Chemistry <br><br> 🔥 I am currently learning AWS, Microprocessing, and Transformers | <img style="float: right;" src="https://husky-developers.github.io/assets/images/logos/husky-dev.jpg"> |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 
----
 
 ### 📱 Technologies 
 <div style="display:flex">
